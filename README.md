@@ -12,4 +12,4 @@
 
 ## 项目中的引脚约束
 
-建议使用[Nexys-4-Master.xdc](constraints/Nexys-4-Master.xdc)，在项目中添加该约束文件后，将对应部分取消注释（删除行首的#），修改对应的port名即可。
+建议使用[Nexys-4-DDR-Master.xdc](constraints/Nexys-4-DDR-Master.xdc)，在项目中添加该约束文件后，将对应部分取消注释（删除行首的#），修改对应的port名即可。
