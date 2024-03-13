@@ -14,3 +14,5 @@
 约束文件：[Nexys-4-DDR-Master.xdc](constraints/Nexys-4-DDR-Master.xdc)
 
 如遇到其他问题，可查阅开发板数据手册：[Nexys4-开发板用户手册.pdf](datasheet/Nexys4-开发板用户手册.pdf)
+
+关于激励块的编写，可以参考[tb_dec.v](demo/tb_dec.v)
